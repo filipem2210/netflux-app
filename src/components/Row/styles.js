@@ -1,14 +1,19 @@
-import styled from 'styled-components/native';
+import { StyleSheet } from 'react-native';
 
-export const Title = styled.Text`
-  color: #fff;
-  font-size: 25px;
-  font-weight: bold;
-  margin: 10px 0 10px 10px;
-`;
-
-export const CarouselImage = styled.Image`
-  height: 180px;
-  border-radius: 10px;
-  margin-left: 10px;
-`;
+export const styles = StyleSheet.create({
+  container: {
+    marginLeft: 5
+  },
+  title: {
+    color: '#fff',
+    fontSize: 25,
+    fontWeight: 'bold',
+    marginVertical: 10,
+    marginLeft: 5
+  },
+  carouselImg: {
+    height: 180,
+    width: 130,
+    borderRadius: 10,
+  }
+});
