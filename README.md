@@ -15,7 +15,7 @@
 ## :computer: Technologies
 
 * [React Native](https://reactnative.dev/)
-* [React Navivation](https://www.npmjs.com/package/@react-navigation/native)
+* [React Navigation](https://www.npmjs.com/package/@react-navigation/native)
 * [Axios](https://www.npmjs.com/package/axios)
 * [React Native Dotenv](https://www.npmjs.com/package/react-native-dotenv)
 * [React Native Linear Gradient](https://www.npmjs.com/package/react-native-linear-gradient)
